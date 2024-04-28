@@ -6,9 +6,9 @@ The example is for 3 candidate parents, 5 progeny and 10 markers (missing marker
 
 An example of 3 parents file
  ----------------------------------------
-HO467 1022501150
-192SSe 2201121200
-HO4D 1222550000 
+HO467 1022501150   
+192SSe 2201121200   
+HO4D 1222550000        
 
 An example of 5 offspring file
 ----------------------------------------
