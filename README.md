@@ -6,19 +6,21 @@ The example is for 3 candidate parents, 5 progeny and 10 markers (missing marker
 
 An example of 3 parents file
  ----------------------------------------
+```
 HO467    1022501150   
 192SSe   2201121200   
 HO4D     1222550000        
-
+```
 An example of 5 offspring file
 ----------------------------------------
+```
 A2727    0500052202    
 R15R     5152525022    
 9999     1210002021    
 56f      2222100220    
 1A02     2021102121    
-
-====================================#                      
+```
+-------------------------------------           
  The output file contains 9 columns:      
 -------------------------------------                   
   1. Original ID for the candidate parent
