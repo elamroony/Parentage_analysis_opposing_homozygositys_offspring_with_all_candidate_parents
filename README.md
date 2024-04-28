@@ -1,0 +1,1 @@
+# Parentage_analysis_opposing_homozygositys_offspring_with_all_candidate_parents
