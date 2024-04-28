@@ -18,9 +18,9 @@ R15R 5152525022
 56f 2222100220    
 1A02 2021102121    
 
-=========================================================================================#        
+====================================#                      
  The output file contains 9 columns:      
-----------------------------------------------------------------------------------------       
+-------------------------------------                   
   1. Original ID for the candidate parent
   2. Original ID for the progeny
   3. A new ID for the candidate parent (starts from 1: i.e., the order in the genotype file) 
@@ -32,5 +32,5 @@ R15R 5152525022
   9. Number of missing markers for the parent
  10. Number of missing markers for both (the progeny and the parent)
  11. % Opposing homozygosity
-----------------------------------------------------------------------------------------
+--------------------------------------             
 
